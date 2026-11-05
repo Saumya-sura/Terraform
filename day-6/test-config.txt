@@ -1,0 +1,3 @@
+Application: Daily Ease
+Environment: test
+Managed by: Terraform

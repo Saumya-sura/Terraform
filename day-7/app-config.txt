@@ -1,0 +1,3 @@
+Application: daily-ease
+Environment: development
+Managed by: Terraform

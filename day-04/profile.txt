@@ -1,0 +1,3 @@
+Application: daily-ease
+Environment: dev
+Project: daily-ease-dev
